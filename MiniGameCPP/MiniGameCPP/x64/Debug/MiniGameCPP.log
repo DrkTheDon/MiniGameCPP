@@ -1,0 +1,5 @@
+﻿  MiniGameCPP.cpp
+C:\Users\johan\source\repos\MiniGameCPP\MiniGameCPP\MiniGameCPP.cpp(27,9): warning C4101: 'scissors': unreferenced local variable
+C:\Users\johan\source\repos\MiniGameCPP\MiniGameCPP\MiniGameCPP.cpp(26,9): warning C4101: 'rock': unreferenced local variable
+C:\Users\johan\source\repos\MiniGameCPP\MiniGameCPP\MiniGameCPP.cpp(25,9): warning C4101: 'paper': unreferenced local variable
+  MiniGameCPP.vcxproj -> C:\Users\johan\source\repos\MiniGameCPP\x64\Debug\MiniGameCPP.exe
